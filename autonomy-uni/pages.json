@@ -1,15 +1,18 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/index",
+			"path": "pages/index/index", //首页
 			"style": {}
 		},
 		{
-			"path": "pages/mine/mine",
+			"path": "pages/mine/mine",// 我的
 			"style": {}
 		},
 		{
-			"path": "pages/spot/spot",
+			"path": "pages/spot/spot", //看点
+			"style": {}
+		},{
+			"path": "pages/spot/spot_details", //看点详情
 			"style": {}
 		}
 	],
